@@ -353,3 +353,4 @@ void printList(headNode* h){
     /*노드의 개수를 출력한다*/
 	printf("  items = %d\n", i);
 }
+
